@@ -14,6 +14,6 @@ All Grade 11 Computer Science Projects organized into its individual chapters. G
   Chapter 9 -   
 
 ### Unfinished Projects:
-* Mars_Election (4)
-* Adding_Matrices (9)
-* Course_Grades (9)
+- Mars_Election (4)
+- Adding_Matrices (9)
+- Course_Grades (9)
