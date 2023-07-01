@@ -12,5 +12,5 @@ All Grade 12 Computer Science Projects organized into its individual chapters. G
   Chapter 10 -   
   Chapter 12 -   
 
-### Unfinished Projects:
+### Unfinished Files:
 - Name_List (12)
