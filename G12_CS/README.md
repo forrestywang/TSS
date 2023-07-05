@@ -10,7 +10,7 @@ All Grade 12 Computer Science Projects organized into its individual chapters. G
   Chapter 8 - Iterative Statements  
   Chapter 9 - Implementing Classes and Using Objects  
   Chapter 10 - Strings, StringBuffer, and Character Classes  
-  Chapter 12 -   
+  Chapter 12 - Arrays  
 
 ### Unfinished Files:
 - Name_List (12)
