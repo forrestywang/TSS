@@ -3,13 +3,13 @@ All Grade 12 Computer Science Projects organized into its individual chapters. G
 
 ## Chapter Topics
 
-  Chapter 2 -   
-  Chapter 3 -     
-  Chapter 6 -   
-  Chapter 7 -   
-  Chapter 8 -   
-  Chapter 9 -   
-  Chapter 10 -   
+  Chapter 2 - Intro to Software Development  
+  Chapter 3 - Objects and Classes    
+  Chapter 6 - Data Types, Variables and Arithmetic  
+  Chapter 7 - Boolean Expressions and If Statements  
+  Chapter 8 - Iterative Statements  
+  Chapter 9 - Implementing Classes and Using Objects  
+  Chapter 10 - Strings, StringBuffer, and Character Classes  
   Chapter 12 -   
 
 ### Unfinished Files:
