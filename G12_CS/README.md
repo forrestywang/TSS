@@ -3,6 +3,8 @@ All Grade 12 Computer Science Projects organized into its individual chapters. G
 
 ## Chapter Topics
 
+G12_CS covers Java syntax.
+
   Chapter 2 - Intro to Software Development  
   Chapter 3 - Objects and Classes    
   Chapter 6 - Data Types, Variables and Arithmetic  
