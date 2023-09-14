@@ -1,8 +1,7 @@
 # G12_CS
 All Grade 12 Computer Science Projects organized into its individual chapters. G12_Final_Project is located in the [Games](https://github.com/forrestywang/Games) repository.
 
-## Chapter Topics
-
+## Chapter Topics:
 G12_CS covers Java syntax.
 
   Chapter 2 - Intro to Software Development  
