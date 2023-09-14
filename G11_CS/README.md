@@ -2,7 +2,6 @@
 All Grade 11 Computer Science Projects organized into its individual chapters. G11_Final_Project is located in the [Games](https://github.com/forrestywang/Games) repository.
 
 ## Chapter Topics:
-
 G11_CS covers Java syntax.
 
   Chapter 3 - Output  
