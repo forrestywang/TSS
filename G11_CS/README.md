@@ -13,6 +13,5 @@ G11_CS covers Java syntax.
   Chapter 9 - Arrays  
 
 ### Unfinished Files:
-- Mars_Election (4)
 - Adding_Matrices (9)
 - Course_Grades (9)
